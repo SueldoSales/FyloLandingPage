@@ -44,17 +44,17 @@ function Footer() {
 
 					<ul className="social-media">
 						<li>
-							<a className="circle" href="#">
+							<a className="circle" href="https://www.instagram.com/sueldosales/">
 								<i className="fab fa-facebook-f"></i>
 							</a>
 						</li>
 						<li>
-							<a className="circle" href="#">
+							<a className="circle" href="https://www.instagram.com/sueldosales/">
 								<i className="fab fa-twitter"></i>
 							</a>
 						</li>
 						<li>
-							<a className="circle" href="#">
+							<a className="circle" href="https://www.instagram.com/sueldosales/">
 								<i className="fab fa-instagram"></i>
 							</a>
 						</li>

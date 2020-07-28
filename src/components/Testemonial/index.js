@@ -16,7 +16,7 @@ function Testemonial() {
 							colleagues for live collaboration. No email attachments required!
 						</p>
 
-						<a className="green" href="#">
+						<a className="green" href="https://sueldosales.github.io/">
 							See how Fylo works
 							<img src="./img/icon-arrow.svg" alt="arrow" />
 						</a>

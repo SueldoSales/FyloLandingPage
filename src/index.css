@@ -78,13 +78,14 @@ nav ul li {
 	margin-left: 50px;
 }
 
-nav ul a {
+nav ul span {
 	color: hsl(243, 87%, 12%);
 	font-family: 'Raleway', sans-serif;
-	text-decoration: none;
+  text-decoration: none;
+  cursor: pointer;
 }
 
-nav ul a:hover {
+nav ul span:hover {
 	color: hsl(224, 93%, 58%);
 }
 

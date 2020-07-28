@@ -8,19 +8,19 @@ function Header() {
                     <img src="./img/logo.svg" alt="logo" />
                     <ul>
                         <li>
-                            <a href="#">
+                            <span>
                                 Features
-                            </a>
+                            </span>
                         </li>
                         <li>
-                            <a href="#">
+                            <span>
                                 Sign In
-                            </a>
+                            </span>
                         </li>
                         <li>
-                            <a href="#">
+                            <span>
                                 Team
-                            </a>
+                            </span>
                         </li>
                     </ul>
                 </nav>
